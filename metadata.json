@@ -1,0 +1,6 @@
+{
+  "name": "Rizwan Online Dreams Platform (RODP)",
+  "description": "An enterprise-grade Digital Service Center Management Platform for shops like Cyber Cafes, CSC Centers, Aadhaar/PAN Centers, and more, featuring multi-role access, modular services, smart appointment scheduling, daily task managers, billing and invoicing with GST, staff management, document vaults, finance tracking, and AI-powered business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
